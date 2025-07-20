@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anil!
+# 👋 Hi, I'm Anilkumar!
 
 🎓 CSE Student | 💻 Java & ML Enthusiast | 🚀 Problem Solver
 
