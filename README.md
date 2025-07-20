@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Anil!
 
-<!--
-**Anil-2003-kumar/Anil-2003-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Java & ML Enthusiast | 🚀 Problem Solver
 
-Here are some ideas to get you started:
+## 🔥 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 [Carbon Footprint Calculator](https://github.com/anil-anil/CarbonFootprintCalculator)  
+  Java OOP-based console app to calculate annual CO₂ emissions.
+
+- 🫀 [Heart Disease Prediction (ML)](https://github.com/anil-anil/Heart-Disease-Prediction)  
+  ML model to predict heart disease using clinical data like chest pain, cholesterol, etc.
+
+- 📈 **Currently working on:**  
+  A deep learning project using ECG images to predict cardiac conditions.  
+  Comparing a custom CNN with pre-trained models (SqueezeNet, AlexNet) for performance.
+
+## 💡 Skills:  
+Java | Python | OOP | Machine Learning | CNN | Git | MySQL
+
