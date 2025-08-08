@@ -12,7 +12,7 @@
 
 - 📈 **Currently working on:**  
   A deep learning project using ECG images to predict cardiac conditions.  
-  Comparing a custom CNN with pre-trained models (SqueezeNet, AlexNet) for performance.
+  Comparing a custom CNN with pre-trained models (VGG, AlexNet) for performance.
 
 ## 💡 Skills:  
 Java | Python | OOP | Machine Learning | CNN | Git | MySQL
